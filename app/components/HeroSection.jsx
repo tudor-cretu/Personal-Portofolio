@@ -36,13 +36,13 @@ const heroSection = () => {
                 </div>
             </div>
             <div className="col-span-5 place-self-center mt-4 lg:mt-0">
-                <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[300px] lg:h-[300px] mt-5 relative">
+                <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[600px] lg:h-[600px] relative">
                     <Image
                         src="/images/portofolio-pfp.png"
                         alt="Profile picture"
                         className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
-                        width={300}
-                        height={300}
+                        width={600}
+                        height={600}
                     />
                 </div>
             </div>
